@@ -1,1 +1,6 @@
-alert("ola mundo")
+function mudarCorTexto(){
+    alert("ola mundo")
+
+
+    
+}
