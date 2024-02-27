@@ -5,7 +5,7 @@ body{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,201,201,1) 0%, rgba(0,237,103,1) 60%, rgba(98,240,102,1) 94%, rgba(14,255,5,1) 100%);
 }
 
-    .teste1{
+.teste1{
     display: flex;
     justify-content: center;
     }
