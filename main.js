@@ -5,3 +5,6 @@ function mudarCorTexto(){
 
     
 }
+function mudarCorFundo(){
+    document.ATTRIBUTE_NODE.querySelector("#p1").style.color="green"
+}
